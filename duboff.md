@@ -1,5 +1,7 @@
 # Hello, I'm Mikhail
 
+* Bla
+
 # Hometown
 * London, UK
   * Lots of rain
@@ -9,3 +11,6 @@
 
 ## Favorite Restaurant
 * Byron
+
+## Next city
+* NYC, US
